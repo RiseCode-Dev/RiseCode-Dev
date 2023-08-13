@@ -83,6 +83,8 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=github,git,cpp,cs,css,elixir,html,js,py,rails,ruby,rust,ts,visualstudio,vscode," />
     </a>
   </p>
+
+![snake gif](https://github.com/RiseCode-Dev/RiseCode-Dev/blob/output/github-contribution-grid-snake.svg)
   -->
   
 </div>
