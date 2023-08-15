@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiseCode-Dev&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&title_color=FF00CC&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false" />
   </a>-->
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiseCode-Dev&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" alt="risecode-dev" />
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiseCode-Dev&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" alt="risecode-dev" />
   </a>
 <br><br>
 </h1>
