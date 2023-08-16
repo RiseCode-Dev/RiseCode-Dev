@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://github.com/RiseCode-Dev/github-readme-stats">
-    <img height=200 widht=300 align="center" src="https://github-readme-stats.vercel.app/api?username=RiseCode-Dev&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=RiseCode-Dev&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
   </a>
   <a>
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiseCode-Dev&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" alt="risecode-dev" />
+    <img height=190 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiseCode-Dev&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" alt="risecode-dev" />
   </a>
 <br><br>
 </h1>
