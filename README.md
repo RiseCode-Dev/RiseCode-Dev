@@ -68,15 +68,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/RiseCode-Dev/github-readme-stats">
     <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=RiseCode-Dev&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
   </a>
+  <a href="https://github.com/RiseCode-Dev/convoychat">
+      <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiseCode-Dev&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&title_color=FF00CC&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false" />
+  </a>
   <a>
     <img width=48% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiseCode-Dev&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" alt="risecode-dev" />
   </a>
 <br><br>
 </h1>
 
-<!--<a href="https://github.com/RiseCode-Dev/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiseCode-Dev&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&title_color=FF00CC&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false" />
-  </a>-->
 <!--
 <a href="https://github.com/RiseCode-Dev/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&title_color=FF00FF&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=true" />
